@@ -1,6 +1,6 @@
 ### About
 
-Hi I like to call me self Milk but on here I called MilkdevNew
+Hi I like to call my self Milk but on here I called MilkdevNew
 
 Learing how to code because I just like it
 
@@ -10,7 +10,7 @@ Learing how to code because I just like it
 3. Roblox Games
 4. Game Dev for Roblox
 
-# Contact
+# Contacts
 
 Roblox Dms
 To Dm me follew me on Roblox
