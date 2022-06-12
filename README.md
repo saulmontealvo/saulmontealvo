@@ -11,9 +11,9 @@ Learing how to code because, I just like it
 
 ## Tools
 
-1. Os Windows 11 Home
-2. IDE Visual Studio Code
-3. Git in the windows terminal
+1. Os: Windows 11 Home
+2. IDE: Visual Studio Code
+3. Git: In the windows terminal
 
 
 # Contacts
