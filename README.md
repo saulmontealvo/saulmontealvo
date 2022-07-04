@@ -28,6 +28,6 @@ To Dm me follew me on Roblox
 https://web.roblox.com/users/1567499171/profile
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkdevNew&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MilkdevNew&&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkdevNew&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MilkdevNew&&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
