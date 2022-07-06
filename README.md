@@ -33,27 +33,3 @@ warum hat das gemacht","Fusion". Then on June 26, 2022 the game was deleted from
 
 Ro Room is like Rec room a vr game with user generated content. Game is still is early development
 
-# Hardware
-
-This is part is for nerds and developers
-
-_Hardware_
-
-### PC
-
-1. CPU. Intel i5-10400F 2.90GHz
-2. GPU. Nivdia GeForce GTX 1650
-3. RAM. 8GB 2667Mhz
-
-### Products
-
-1. Corsair K70 RGB Mx Browns
-2. Corsair Happon RGB WIRELESS
-3. Stream Deck Normal 5x3
-4. HyperX wired headphones
-5. Razer Seiren Mini Mic
-
-### Displays
-
-1. Main ASUS VP249
-2. Secondary S23HL
