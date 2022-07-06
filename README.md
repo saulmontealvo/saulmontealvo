@@ -19,17 +19,4 @@ _Tools_
   <img src="https://github-readme-stats.vercel.app/api?username=MilkdevNew&&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
-# My projects
-
-1. Outside
-2. Ro Room
-
-### Outside
-
-This is open world rpg made on January 6 2022 with the first name as "Big Words". Update for many months and name change to "Test","
-warum hat das gemacht","Fusion". Then on June 26, 2022 the game was deleted from roblox. For having UTG or utlimate trolling gui that we did not add to our game
-
-### Ro Room
-
-Ro Room is like Rec room a vr game with user generated content. Game is still is early development
 
