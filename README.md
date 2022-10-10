@@ -1,6 +1,6 @@
 # About
 
-Hello I am MilkdevNew a software developer. I self taught myself how to code since March 2020. Now I am co owner of AppleJuice's Studio is own by my friend @AppleJuiceDev. AppleJuice's Studio is where I upload my big project
+Hello I am MilkdevNew a software developer. I self taught myself how to code since March 2020. I am the owner Milk's Studio
 
 _Hobbies I have_
 
