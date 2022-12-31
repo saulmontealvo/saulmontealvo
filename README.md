@@ -4,15 +4,15 @@ Hello I am MilkdevNew a software developer. I self taught myself how to code sin
 
 _Hobbies I have_
 
-1.  Speedcubing
-2.  Programming
+1.  Programming
+2.  Speedcubing
 
 _Tools_
 
 1.  IDE. Visual Studio Code
 2.  OS. Windows 11 Home
 
-## Info About my GitHub profile
+## Info about my GitHub profile
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkdevNew&theme=tokyonight&hide_border=true&langs_count=6"/>
