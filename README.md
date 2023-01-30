@@ -1,18 +1,17 @@
-# About
+### Hello am MilkshakeSir and I like coding 👋
 
-Hello I am MilkdevNew a software developer. I self taught myself how to code since March 2020. I am the owner Milk's Studio
+👋 Hello, am MilkshakeSir I been coding for Roblox since 2020
 
-_Hobbies I have_
+I just make games and other things.
 
-1.  Programming
-2.  Speedcubing
+- 🏢 Owner of Milk's Studio
+- 🖼️ UI Designer
 
-_Tools_
+## Projects
 
-1.  IDE. Visual Studio Code
-2.  OS. Windows 11 Home
+* ### [Audiocue](https://github.com/MilkdevNew/Audiocue) A Roblox plugin to sync text with sound
 
-## Info about my GitHub profile
+## Github Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkdevNew&theme=tokyonight&hide_border=true&langs_count=6"/>
