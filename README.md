@@ -1,11 +1,11 @@
-### Hello am MilkshakeSir and I like coding 👋
+### Hello am MilkshakeSir and I like coding
 
 👋 Hello, am MilkshakeSir I been coding for Roblox since 2020
 
 I just make games and other things.
 
-- 🏢 Owner of Milk's Studio
-- 🖼️ UI Designer
+-  Owner of Milk's Studio
+-  UI Designer
 
 ## Projects
 
