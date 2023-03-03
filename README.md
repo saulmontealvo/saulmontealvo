@@ -4,7 +4,7 @@
 
 I just make games and other things.
 
--  Owner of @milk-studio
+-  Owner of [Milk Studio](https://github.com/milk-studio)
 -  UI Designer
 
 ## Projects
