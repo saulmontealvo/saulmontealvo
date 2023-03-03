@@ -4,12 +4,12 @@
 
 I just make games and other things.
 
--  Owner of Milk's Studio
+-  Owner of @milk-studio
 -  UI Designer
 
 ## Projects
 
-* ### [Audiocue](https://github.com/MilkdevNew/Audiocue) A Roblox plugin to sync text with sound
+* ### [Audiocue](https://github.com/milk-studio/Audiocue) A Roblox plugin to sync text with sound
 
 ## Github Stats
 
