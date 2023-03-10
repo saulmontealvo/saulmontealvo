@@ -9,7 +9,7 @@ I just make games and other things.
 
 ## Projects
 
-* ### [Audiocue](https://github.com/milk-studio/Audiocue) A Roblox plugin to sync text with sound
+I have many cool project but they are not ready for the public, so come back for cool projects
 
 ## Github Stats
 
