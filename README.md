@@ -1,8 +1,6 @@
 ### Intro
 
-👋 Hello, I am MilkshakeSir and I have been coding for Roblox since 2020
-
-I just make games and other things.
+👋 Hello, I am MilkshakeSir and I have been a programmer for Roblox since 2020
 
 -  Owner of [Milk Studio](https://github.com/milk-studio)
 -  UI Designer
@@ -13,7 +11,7 @@ I just make games and other things.
 
 ## Projects
 
-I have many cool project but they are not ready for the public, so come back for cool projects
+I have many cool projects but they are not ready for the public, so come back for cool projects
 
 ## Github Stats
 
