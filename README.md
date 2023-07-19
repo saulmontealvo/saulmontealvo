@@ -1,6 +1,6 @@
 ### Intro
 
-👋 Hello, I am MilkshakeSir and I have been a programmer for Roblox since 2020
+👋 Hello, I am MilkshakeSir, I work in Tech and Music.
 
 -  Owner of [Milk Studio](https://github.com/milk-studio)
 -  UI Designer
