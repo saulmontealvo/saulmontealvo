@@ -2,8 +2,8 @@
 
 👋 Hello, I am MilkshakeSir, I work in Tech and Music.
 
--  Owner of [Milk Studio](https://github.com/milk-studio)
--  UI Designer
+-  Owner of [Milk Studio](https://github.com/milk-studio),
+-  Music Composer,
 
 ## Links
 
@@ -11,7 +11,7 @@
 
 ## Projects
 
-I have many cool projects but they are not ready for the public, so come back for cool projects
+None of the moment.
 
 ## Github Stats
 
