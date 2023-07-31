@@ -3,11 +3,11 @@
 👋 Hello, I am MilkshakeSir, I work in Tech and Music.
 
 -  Owner of [Milk Studio](https://github.com/milk-studio),
--  Music Composer,
+-  Music Composer
 
 ## Links
 
-- [Itch.io](https://milkshakesir.itch.io/)
+[Itch.io](https://milkshakesir.itch.io/)
 
 ## Projects
 
