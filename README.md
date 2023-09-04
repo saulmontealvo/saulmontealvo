@@ -7,7 +7,8 @@
 
 ## Links
 
-[Itch.io](https://milkshakesir.itch.io/)
+### [Itch](https://milkshakesir.itch.io/)
+### [Bandcamp](https://milkshakesir.bandcamp.com/)
 
 ## Projects
 
