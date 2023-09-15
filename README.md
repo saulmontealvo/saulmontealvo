@@ -2,7 +2,7 @@
 
 👋 Hello, I am MilkshakeSir, I work in Tech and Music.
 
--  Owner of [Milk Studio](https://github.com/milk-studio),
+-  Owner of [Short Aspect](https://github.com/ShortAspect),
 -  Music Composer
 
 ## Links
