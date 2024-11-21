@@ -1,9 +1,9 @@
 ### Intro
 
-👋 Hello, I am MilkshakeSir, I work in Tech and Music.
+👋 Hello, I am Saul, I have hobbies in photography and music but I started with programming.
 
--  Owner of [Short Aspect](https://github.com/ShortAspect),
--  Music Composer
+-   Photographer.
+-   Music Composer
 
 ## Links
 
