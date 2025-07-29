@@ -1,14 +1,14 @@
 ### Intro
 
-👋 Hello, I am Saul, I have hobbies in photography and music but I started with programming.
+👋 Hello, I am Saul, I have hobbies in photography and audio engineering, but I started with programming.
 
--   Photographer.
+-   Audio Mixer & Master.
 -   Music Composer
+-   Photographer
 
 ## Links
 
-### [Itch](https://milkshakesir.itch.io/)
-### [Bandcamp](https://milkshakesir.bandcamp.com/)
+### [Bandcamp](https://saulmontealvo.bandcamp.com/)
 
 ## Projects
 
