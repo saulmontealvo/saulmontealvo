@@ -1,18 +1,14 @@
-### Intro
+# Intro 
 
-👋 Hello, I am Saul, I have hobbies in photography and audio engineering, but I started with programming.
+Hello I'm Saul, I have many interests like computer science, network security and audio engineering. But it all started with programming in Lua.
 
--   Audio Mixer & Master.
--   Music Composer
--   Photographer
-
-## Links
-
-### [Bandcamp](https://saulmontealvo.bandcamp.com/)
-
-## Projects
-
-None of the moment.
+## Skills
+- Audio Mixing & Mastering
+- Lua Programing
+- Graphic Design
+- Photography
+- Video Editing
+- Color Grading
 
 ## Github Stats
 
